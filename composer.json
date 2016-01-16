@@ -1,0 +1,7 @@
+{
+    "name": "mattyg/array_column_maintain_keys",
+    "description": "A wrapper for array_column that maintains the keys of the original array.",
+    "autoload": {
+        "files": ["array_column_maintain_keys.php"]
+    }
+}
