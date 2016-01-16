@@ -14,3 +14,5 @@ resolves that problem quite nicely.
 
 See here for the recommended userlannd polyfill of array_column():
 https://github.com/ramsey/array_column
+
+This software is released into the public domain without any warranty.
