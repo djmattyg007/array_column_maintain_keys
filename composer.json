@@ -1,6 +1,10 @@
 {
     "name": "mattyg/array_column_maintain_keys",
+    "tyoe": "library",
     "description": "A wrapper for array_column that maintains the keys of the original array.",
+    "keywords": ["array", "array_column"],
+    "license": "Unlicense",
+    "homepage": "https://github.com/djmattyg007/array_column_maintain_keys",
     "autoload": {
         "files": ["array_column_maintain_keys.php"]
     }
